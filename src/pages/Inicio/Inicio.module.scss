@@ -1,0 +1,19 @@
+.AppStyle {
+    color: red;
+    font-size: 23px;
+    padding: 20px;
+    display: flex;  
+    flex-direction: row;  
+    justify-content: space-between;  
+    align-items: center;  
+    img{
+        width: 100px;
+    }
+    ul{
+        display: flex; 
+        flex-direction: row;  
+    }
+    li{
+        margin-left: 10px;
+    }
+}

@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import styles from "./Main.module.scss"
+import styles from "./Rodape.module.scss"
 
-export const Main = () => {
+export const Rodape = () => {
   return (
     <div className={styles.AppStyle}>
-      Welcome World !!!
+      Rodape
     </div>
   );
 }

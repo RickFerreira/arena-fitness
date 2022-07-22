@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import styles from "./Home.module.scss"
+import styles from "./Personais.module.scss"
 
-export const Home = () => {
+export const Personais = () => {
   return (
     <div className={styles.AppStyle}>
-      Hello World !! 
+      Personais
     </div>
   );
 }

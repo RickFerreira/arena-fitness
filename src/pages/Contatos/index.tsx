@@ -1,10 +1,10 @@
 import { useState } from 'react'
-import styles from "./Footer.module.scss"
+import styles from "./Contatos.module.scss"
 
-export const Footer = () => {
+export const Contatos = () => {
   return (
     <div className={styles.AppStyle}>
-      Good bye world !!!
+      Contatos
     </div>
   );
 }
