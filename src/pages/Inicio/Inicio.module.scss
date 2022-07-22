@@ -1,19 +1,33 @@
 .AppStyle {
-    color: red;
-    font-size: 23px;
-    padding: 20px;
+    $cinza: #222222;
+    $laranja: #ff6a07;
+
+    height: 93vh;
+    background: url(../../assets/img/bannerHorizontal.jpg);
+    background-size: cover;
+    background-position: center;
+
+    padding-inline: 70px;
+    padding-top: 20px;
     display: flex;  
     flex-direction: row;  
-    justify-content: space-between;  
-    align-items: center;  
+    justify-content: space-between; 
+      
     img{
-        width: 100px;
+        height: 50px;
+        margin-right: 15px;
+    }
+    a{
+        text-decoration: none;
+        color: white;
     }
     ul{
+        padding-top: 13px;
         display: flex; 
         flex-direction: row;  
     }
     li{
-        margin-left: 10px;
+        font-size: 18px;
+        margin-left: 20px;
     }
 }

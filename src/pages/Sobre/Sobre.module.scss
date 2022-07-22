@@ -1,10 +1,26 @@
 .AppStyle { 
-    color: white;
-    font-size: 30px;
-    padding: 13px;
+    
+    padding-inline: 70px;
+
+    h1{
+        font-size: 30px;
+        text-align: center;
+        padding-top: 20px ;
+        padding-bottom: 50px ;
+    }
+    
+    div{
+        align-items: center;
+        display: flex;  
+        flex-direction: row;  
+        justify-content: space-between;
+    }
+    p{
+        width: 45%;
+    }
 
     img{
-        width: 100%;
+        width: 45%;
         border:1px solid white;
         border-radius: 20px;
     }
