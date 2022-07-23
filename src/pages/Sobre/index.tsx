@@ -5,7 +5,7 @@ import localizacao from "../../assets/img/localizacao.jpg"
 
 export const Sobre = () => {
   return (
-    <div className={styles.AppStyle}>
+    <section className={styles.AppStyle}>
       <div>
         <h1>
           SOBRE A NOSSA ACADEMIA 
@@ -20,6 +20,6 @@ export const Sobre = () => {
       <a href="#">
         <img src={localizacao} alt="Imagem da logo Arena Fitness Academia"/>
       </a>
-    </div>
+    </section>
   );
 }

@@ -1,5 +1,46 @@
 .AppStyle {
-    background-color:aquamarine;
-    color: red;
-    font-size: 30px;
+    $cinza: #222222;
+    $laranja: #ff6a07;
+
+    background-color: $cinza;
+    background: url(../../assets/img/fundo.jpg);
+    padding-inline: 70px;
+
+    h1{
+        color: $laranja;
+        font-weight: bold;
+        font-size: 30px;
+        text-align: center;
+        padding: 50px;
+    }
+    ul{
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 50px;
+        
+        li{
+            background-color: rgb(10, 3, 0);
+            margin: 10px 10px 0 0;
+            width: calc(33% - 70px);
+            text-align: center;
+            border-radius: 6px;
+            padding: 20px 25px;
+    
+            border:4px solid $laranja;
+            border-radius: 20px;
+    
+            h2{
+                color: $laranja;
+                font-size: 20px;
+                margin-bottom: 20px;
+            }
+            p{
+                color: white;
+                font-size: 20px;
+            }
+        }
+
+    }
+
 }
