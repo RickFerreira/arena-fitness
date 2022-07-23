@@ -11,12 +11,12 @@ export const Inicio = () => {
         <img src={nome} alt="Imagem da logo Arena Fitness Academia"/>
       </a>
       <ul>
-        <li><a href="#Inicio">Inicio</a></li>
-        <li><a href="#Sobre">Sobre</a></li>
-        <li><a href="#Beneficios">Beneficios</a></li>
-        <li><a href="#Personais">Personais</a></li>
-        <li><a href="#Treinos">Treinos</a></li>
-        <li><a href="#Contatos">Contatos</a></li>
+        <li><a href="#Inicio">INICIO</a></li>
+        <li><a href="#Sobre">SOBRE</a></li>
+        <li><a href="#Beneficios">BENEFICIOS</a></li>
+        <li><a href="#Personais">PERSONAIS</a></li>
+        <li><a href="#Treinos">TREINOS</a></li>
+        <li><a href="#Contatos">CONTATOS</a></li>
       </ul>
     </div>
   );

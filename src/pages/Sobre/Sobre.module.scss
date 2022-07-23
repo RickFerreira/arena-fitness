@@ -1,27 +1,38 @@
 .AppStyle { 
-    
-    padding-inline: 70px;
+    $cinza: #222222;
+    $laranja: #ff6a07;
 
-    h1{
-        font-size: 30px;
-        text-align: center;
-        padding-top: 20px ;
-        padding-bottom: 50px ;
-    }
-    
+    padding: 70px;
+    display: flex;  
+    flex-direction: row;  
+    justify-content: space-between;
+    align-items: center;
+
     div{
-        align-items: center;
-        display: flex;  
-        flex-direction: row;  
-        justify-content: space-between;
+        width: 150%;
+        h1{
+            color: $laranja;
+            font-weight: bold;
+            font-size: 30px;
+            text-align: justify;
+        }
+        p{
+            padding-top: 30px ;
+            font-size: 20px;
+            text-align: justify;
+            padding-right: 70px;
+            span{
+                color: $laranja;
+                font-weight: bold;
+            }
+        }
     }
-    p{
-        width: 45%;
+    a{
+        img{
+            width: 100%;
+            border:4px solid $laranja;
+            border-radius: 20px;
+        }
     }
 
-    img{
-        width: 45%;
-        border:1px solid white;
-        border-radius: 20px;
-    }
 }
