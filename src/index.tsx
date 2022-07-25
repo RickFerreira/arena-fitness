@@ -8,13 +8,17 @@ import { Personais } from './pages/Personais';
 import { Rodape } from './pages/Rodape';
 import { Sobre } from './pages/Sobre';
 import { Treinos } from './pages/Treinos';
+import { Planos } from './pages/Planos';
+import { Banners } from './pages/Banners';
 
 ReactDOM.render(
   <React.StrictMode>
     <Inicio />
+    <Banners />
     <Sobre />
     <Beneficios />
     <Personais />
+    <Planos />
     <Treinos />
     <Contatos />
     <Rodape />
