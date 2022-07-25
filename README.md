@@ -27,7 +27,7 @@
 
 ### 💻 Results
 <br>
-<a href="https://rickferreira.github.io/arena-fitness/">--------------Click aqui para ver o site--------------</a>
+<a href="https://arena-fitness.vercel.app/">--------------Click aqui para ver o site--------------</a>
 <br><br>
 
 <img src="" width="100%;" alt="Foto do site"/><br>
