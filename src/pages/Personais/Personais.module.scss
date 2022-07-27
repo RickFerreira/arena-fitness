@@ -1,5 +1,57 @@
 .AppStyle {
-    background-color:aquamarine;
-    color: red;
-    font-size: 30px;
+    $cinza: #222222;
+    $laranja: #ff6a07;
+
+    background-color: $laranja;
+    padding-inline: 70px;
+
+    h1{
+        color: black;
+        font-weight: bold;
+        font-size: 30px;
+        text-align: center;
+        padding-top: 50px;
+    }
+    h2{
+        color: $laranja;
+        font-weight: bold;
+        font-size: 30px;
+        text-align: center;
+    }
+    ul{
+        padding-top: 50px;
+        justify-content: center;
+        display: flex;
+        flex-wrap: wrap;
+        padding-bottom: 50px;
+        
+        li{
+            background: black;
+            margin: 10px 10px 0 0;
+            width: calc(33% - 70px);
+            text-align: center;
+            border-radius: 6px;
+            padding: 20px 25px;
+    
+            border-radius: 20px;
+            
+            div{
+                font-size: 70px;
+                color: $laranja;
+                margin-bottom: 10px;
+            }
+    
+            h2{
+                color: $laranja;
+                font-size: 20px;
+                margin-bottom: 20px;
+            }
+            p{
+                color: white;
+                font-size: 20px;
+            }
+        }
+
+    }
+
 }
