@@ -1,10 +1,10 @@
-<div align="center">
- 
-# ArenaFitness
+<div align="center">  
+  
+# ArenaFitness    
   
 <h4> Estou criando um site para uma academia, inicialmente utilizando react, javascript, html e css. Com isso, estou estudando um pouco mais de front end e web.
-</h4>
-    
+</h4>    
+  
 <p>
 <!-- Image Shields -->
 <img  alt="Language Top"  src="https://img.shields.io/github/languages/top/RickFerreira/arena-fitness">
