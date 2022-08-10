@@ -9,10 +9,11 @@ export const Personais = () => {
   return (
     <section className={styles.AppStyle}>
       <h1>PERSONAIS TRAINERS</h1>
+      <h1>__________________</h1>
       <ul>
         <li>
           <img src={joabson} alt="Imagem de joabson personal"/>
-          <h2>Joabson Personal</h2>
+          <h2>Joabson Silva</h2>
           <p>CREF PB-007515</p>
           <a href="#"> <ImWhatsapp/> Entrar em contato</a>
         </li>
