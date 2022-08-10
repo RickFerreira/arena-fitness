@@ -8,6 +8,7 @@ import { GiWeightLiftingUp } from "react-icons/gi";
 import { AiOutlineFileProtect } from "react-icons/ai";
 import { BiHomeHeart } from "react-icons/bi";
 import { BiDumbbell } from "react-icons/bi";
+import { BsWatch } from "react-icons/bs";
 
 
 export const Beneficios = () => {
@@ -72,8 +73,15 @@ export const Beneficios = () => {
           <h2>Acolhimento</h2>
           <p>A Arena Fitness é um ambiente familiar, onde você será bem atendido(a) e recebido(a). </p>
         </li>
+        <li>
+          <div>
+            <BsWatch/>
+          </div>
+          <h2>Aberto até as 22 hrs</h2>
+          <p>Aberta até essa hora para garantir que você não vai perder o dia de treino</p>
+        </li>
       </ul>
-      
+
     </section>
   );
 }

@@ -22,7 +22,7 @@ export const Inicio = () => {
       </menu>
       <section>
         <h1>VEM SER <span>ARENEIRO</span></h1>
-        <p>Agende agora o seu horário clicando no botão a baixo</p>
+        <p>Agende agora o seu horário clicando no botão abaixo</p>
         <a href="#">CONTATO</a>
       </section>
     </div>

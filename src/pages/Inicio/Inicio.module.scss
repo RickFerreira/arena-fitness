@@ -8,13 +8,18 @@
     background-size: cover;
     background-position: center;
 
-    padding-inline: 7vw;
+    
 
     menu{
-        padding-top: 20px;
+        padding-inline: 7vw;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        background-color: $cinza;
         display: flex;  
         flex-direction: row;  
         justify-content: space-between; 
+        position: fixed;
+        width: 85vw;
         
         img{
             height: 50px;
@@ -25,7 +30,8 @@
             color: white;
         }
         ul{
-            padding-top: 13px;
+            right: 0;
+            padding-top: 16px;
             display: flex; 
             flex-direction: row;  
         }
@@ -37,7 +43,8 @@
     }
 
     section{
-        margin-top: 23vh;
+        padding-left: 7vw;
+        padding-top: 25vh;
         max-width: 30%;
         display: flex;
         flex-direction: column;
