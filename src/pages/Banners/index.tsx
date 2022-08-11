@@ -7,7 +7,7 @@ import { ImQuotesRight } from "react-icons/im";
 
 export const Banners = () => {
   return (
-    <div className={styles.AppStyle}>
+    <section id="Banners" className={styles.AppStyle}>
       <ul>
         <img src={musculacao} alt="Imagem da modalidade musculacao"/>
         <img src={funcional} alt="Imagem da modalidade funcional"/>
@@ -17,6 +17,6 @@ export const Banners = () => {
         <ImQuotesLeft/>
         <p>Se for pra sofrer, que seja na academia. Lá pelo menos a dor trás resultados.</p>
       </section>
-    </div>
+    </section>
   );
 }

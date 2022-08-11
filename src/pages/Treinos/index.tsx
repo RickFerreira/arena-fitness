@@ -3,8 +3,8 @@ import styles from "./Treinos.module.scss"
 
 export const Treinos = () => {
   return (
-    <div className={styles.AppStyle}>
+    <section id="Treinos" className={styles.AppStyle}>
       Treinos
-    </div>
+    </section>
   );
 }

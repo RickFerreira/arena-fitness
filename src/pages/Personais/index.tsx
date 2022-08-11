@@ -7,7 +7,7 @@ import { ImWhatsapp } from "react-icons/im";
 
 export const Personais = () => {
   return (
-    <section className={styles.AppStyle}>
+    <section id="Personais" className={styles.AppStyle}>
       <h1>PERSONAIS TRAINERS</h1>
       <h1>__________________</h1>
       <ul>

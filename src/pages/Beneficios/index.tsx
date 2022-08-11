@@ -13,7 +13,7 @@ import { BsWatch } from "react-icons/bs";
 
 export const Beneficios = () => {
   return (
-    <section className={styles.AppStyle}>
+    <section id="Beneficios" className={styles.AppStyle}>
       <h1 >BENEFICIOS DE SER ARENEIRO</h1>
       <h2>____________</h2>
       <ul>

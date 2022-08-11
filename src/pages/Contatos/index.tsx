@@ -3,8 +3,8 @@ import styles from "./Contatos.module.scss"
 
 export const Contatos = () => {
   return (
-    <div className={styles.AppStyle}>
+    <section id="Contatos" className={styles.AppStyle}>
       Contatos
-    </div>
+    </section>
   );
 }

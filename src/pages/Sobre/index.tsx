@@ -5,7 +5,7 @@ import localizacao from "../../assets/img/localizacao.jpg"
 
 export const Sobre = () => {
   return (
-    <section className={styles.AppStyle}>
+    <section id="Sobre" className={styles.AppStyle}>
       <div>
         <h1>
           SOBRE A NOSSA ACADEMIA 
