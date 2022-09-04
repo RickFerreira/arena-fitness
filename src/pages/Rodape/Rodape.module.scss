@@ -1,5 +1,8 @@
 .AppStyle {
-    background-color:aquamarine;
-    color: red;
-    font-size: 30px;
+    $cinza: #222222;
+    $laranja: #ff6a07;
+
+    background-color: $cinza;
+    padding-inline: 70px;
+    
 }
