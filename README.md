@@ -31,7 +31,7 @@
 <a href="https://arena-fitness.vercel.app/">--------------Click aqui para ver o site--------------</a>
 <br><br>
 
-<img src="" width="100%;" alt="Foto do site"/><br>
+<img src="https://cdn.discordapp.com/attachments/459871999943114762/1029111067181318165/unknown.png" width="100%;" alt="Foto do site"/><br>
 
 <br><br>
 
