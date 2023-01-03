@@ -15,12 +15,12 @@ export const Inicio = () => {
 
         <ul>
           <li><AnchorLink href="#Inicio">INICIO</AnchorLink></li>
-          <li><AnchorLink offset='83' href="#Sobre">SOBRE</AnchorLink></li>
-          <li><AnchorLink offset='83' href="#Beneficios">BENEFICIOS</AnchorLink></li>
+          <li><AnchorLink offset='80' href="#Sobre">SOBRE</AnchorLink></li>
+          <li><AnchorLink offset='50' href="#Beneficios">BENEFICIOS</AnchorLink></li>
           <li><AnchorLink offset='45' href="#Personais">PERSONAIS</AnchorLink></li>
-          <li><AnchorLink offset='83' href="#Planos">PLANOS</AnchorLink></li>
-          <li><AnchorLink offset='83' href="#Treinos">TREINOS</AnchorLink></li>
-          <li><AnchorLink offset='83' href="#Contatos">CONTATOS</AnchorLink></li>
+          <li><AnchorLink offset='50' href="#Planos">PLANOS</AnchorLink></li>
+          <li><AnchorLink offset='50' href="#Treinos">TREINOS</AnchorLink></li>
+          <li><AnchorLink offset='80' href="#Contatos">CONTATOS</AnchorLink></li>
         </ul>
       </menu>
       <section>
