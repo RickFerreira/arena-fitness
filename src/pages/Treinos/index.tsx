@@ -1,4 +1,7 @@
 import styles from "./Treinos.module.scss"
+import treinoMasculinoIniciante from "../../assets/img/joabson.png"
+import treinoFemininoIniciante from "../../assets/img/joabson.png"
+
 
 export const Treinos = () => {
   return (
@@ -8,11 +11,15 @@ export const Treinos = () => {
       <ul>
         <li>
           <h2>Masculino</h2>
-          <p>imagem</p>
+          <p>Nível iniciante</p>
+          <br></br>
+          <img src={treinoMasculinoIniciante} alt="Qrcode treino iniciante masculino"/>
         </li>
         <li>
           <h2>Feminino</h2>
-          <p>imagem</p>
+          <p>Nível iniciante</p>
+          <br></br>
+          <img src={treinoFemininoIniciante} alt="Qrcode treino iniciante feminino"/>
         </li>
       </ul>
     </section>

@@ -15,7 +15,7 @@ export const Inicio = () => {
 
         <ul>
           <li><AnchorLink href="#Inicio">INICIO</AnchorLink></li>
-          <li><AnchorLink offset='450' href="#Sobre">SOBRE</AnchorLink></li>
+          <li><AnchorLink offset='83' href="#Sobre">SOBRE</AnchorLink></li>
           <li><AnchorLink offset='83' href="#Beneficios">BENEFICIOS</AnchorLink></li>
           <li><AnchorLink offset='45' href="#Personais">PERSONAIS</AnchorLink></li>
           <li><AnchorLink offset='83' href="#Planos">PLANOS</AnchorLink></li>
@@ -26,7 +26,7 @@ export const Inicio = () => {
       <section>
         <h1>VEM SER <span>ARENEIRO</span></h1>
         <p>Agende agora o seu horário clicando no botão abaixo</p>
-        <AnchorLink offset='83' href="#">CONTATO</AnchorLink>
+        <AnchorLink offset='83' href="#Contatos">CONTATO</AnchorLink>
       </section>
     </section>
   );
