@@ -3,6 +3,31 @@
     $laranja: #ff6a07;
 
     background-color: $cinza;
-    padding-inline: 70px;
-    
+    padding-inline: 7vw;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+    div{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: space-between;  
+   
+
+        h4{
+            color: $laranja;
+            font-weight: bold;
+            font-size: 15px;
+            padding-bottom: 10px;      
+        }
+        p{
+            color: white;
+            font-size: 12px;
+            padding-bottom: 10px;   
+        }
+        a{
+            color: white;
+            font-size: 12px;
+            padding-bottom: 10px;   
+        }
+    }
 }
