@@ -20,12 +20,12 @@ export const Rodape = () => {
                     <h4>Personais:</h4>
                     <ul>
                         <li>
-                            <p>Joabson Silva: <a href="https://api.whatsapp.com/send?phone=5583996479269&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20Caio.%20No%20que%20posso%20ajudar%3F">  (83)
-                                9 9999 9999</a></p>
+                            <p>Joabson Silva: <a href="https://api.whatsapp.com/send?phone=558393403141&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20servi%C3%A7os%20de%20personal.">  (83)
+                            9 9340-3141</a></p>
                         </li>
                         <li>
-                            <p>Karla Danniela: <a href="https://api.whatsapp.com/send?phone=5583993699579&text=Ol%C3%A1%2C%20meu%20nome%20%C3%A9%20Tati.%20No%20que%20posso%20ajudar%3F">  (83)
-                                9 9999 9999</a></p>
+                            <p>Karla Dannielle: <a href="https://api.whatsapp.com/send?phone=558393403141&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20servi%C3%A7os%20de%20personal.">  (83)
+                            9 9340-3141</a></p>
 
                         </li>
                     </ul>

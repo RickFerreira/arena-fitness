@@ -10,8 +10,10 @@ export const Contatos = () => {
       <ul>
         <li>
           <p>Agende agora seu horário e venha fazer parte dessa família</p>
-          <a href="#"> <ImWhatsapp/> Falar pelo whatsApp</a>
-          <a href="#"> <BsInstagram/> Falar pelo instagram</a>
+          <a href="https://api.whatsapp.com/send?phone=558393403141&text=Ol%C3%A1,%20gostaria%20de%20saber%20mais%20informa%C3%A7%C3%B5es%20sobre%20os%20planos%20da%20academia."> 
+          <ImWhatsapp/> Falar pelo whatsApp</a>
+          <a href="https://www.instagram.com/_arenafitnessacademia/"> 
+          <BsInstagram/> Falar pelo instagram</a>
         </li>
       </ul>
     </section>
