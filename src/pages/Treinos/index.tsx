@@ -1,6 +1,9 @@
 import styles from "./Treinos.module.scss"
 import treinoMasculinoIniciante from "../../assets/img/inicianteMasculino.png"
 import treinoFemininoIniciante from "../../assets/img/inicianteFeminino.png"
+import treinoMasculinoIntermediario from "../../assets/img/intermediarioMasculino.png"
+import treinoFemininoIntermediario from "../../assets/img/intermediarioFeminino.png"
+
 
 
 export const Treinos = () => {
@@ -23,6 +26,22 @@ export const Treinos = () => {
           <br></br>
           <a href="https://docs.google.com/document/d/13ii1DkyVuyrcQQfGMlXVzn_vJ44YkYzVf6kzYsJHbDE/edit">
             <img src={treinoFemininoIniciante} alt="Qrcode treino iniciante feminino"/>
+          </a>
+        </li>
+        <li>
+          <h2>Masculino</h2>
+          <p>Nível intermediário</p>
+          <br></br>
+          <a href="https://docs.google.com/document/d/1OpXhdIhbs97-q5lCD0BcIgp3V0QMRiDfXi8cPedzuEE/edit">
+            <img src={treinoMasculinoIntermediario} alt="Qrcode treino intermediario masculino"/>
+          </a>
+        </li>
+        <li>
+          <h2>Feminino</h2>
+          <p>Nível intermediário</p>
+          <br></br>
+          <a href="https://docs.google.com/document/d/17pY4u2ZvH6vimHXyOh5EymGaEPjx_hfZVzrbIz-kIIs/edit">
+            <img src={treinoFemininoIntermediario} alt="Qrcode treino intermediario feminino"/>
           </a>
         </li>
       </ul>
