@@ -47,7 +47,7 @@ export const Planos = () => {
           </a>
         </li>
         <li>
-          <h2>RR$ 51,99</h2>
+          <h2>R$ 51,99</h2>
           <h3>Plano família</h3>
           <p>Traga mais 3 pessoas</p>
           <p>E paga R$ 51,99 por mês cada</p>
