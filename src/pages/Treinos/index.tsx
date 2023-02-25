@@ -3,8 +3,7 @@ import treinoMasculinoIniciante from "../../assets/img/inicianteMasculino.png"
 import treinoFemininoIniciante from "../../assets/img/inicianteFeminino.png"
 import treinoMasculinoIntermediario from "../../assets/img/intermediarioMasculino.png"
 import treinoFemininoIntermediario from "../../assets/img/intermediarioFeminino.png"
-
-
+import treinoFemininoAvancado from "../../assets/img/avancadoFeminino.png"
 
 export const Treinos = () => {
   return (
@@ -42,6 +41,14 @@ export const Treinos = () => {
           <br></br>
           <a href="https://docs.google.com/document/d/17pY4u2ZvH6vimHXyOh5EymGaEPjx_hfZVzrbIz-kIIs/edit">
             <img src={treinoFemininoIntermediario} alt="Qrcode treino intermediario feminino"/>
+          </a>
+        </li>
+        <li>
+          <h2>Feminino</h2>
+          <p>Nível avançado</p>
+          <br></br>
+          <a href="https://docs.google.com/document/d/1mAKwj2frjXaSb7zgQyQ4ktJj_2DR-hvn6yYENEDWCDE/edit">
+            <img src={treinoFemininoAvancado} alt="Qrcode treino avançado feminino"/>
           </a>
         </li>
       </ul>
