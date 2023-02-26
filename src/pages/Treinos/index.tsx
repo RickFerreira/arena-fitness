@@ -45,19 +45,19 @@ export const Treinos = () => {
           </a>
         </li>
         <li>
-          <h2>Feminino</h2>
-          <p>Nível avançado</p>
-          <br></br>
-          <a href="https://docs.google.com/document/d/1mAKwj2frjXaSb7zgQyQ4ktJj_2DR-hvn6yYENEDWCDE/edit">
-            <img src={treinoFemininoAvancado} alt="Qrcode treino avançado feminino"/>
-          </a>
-        </li>
-        <li>
           <h2>Masculino</h2>
           <p>Nível avançado</p>
           <br></br>
           <a href="https://docs.google.com/document/d/1YowKfZP_yFUiH0-bA7jDMaiPKNV8vEKdEaP42dyDRwE/edit">
             <img src={treinoMasculinoAvancado} alt="Qrcode treino avançado masculino"/>
+          </a>
+        </li>
+        <li>
+          <h2>Feminino</h2>
+          <p>Nível avançado</p>
+          <br></br>
+          <a href="https://docs.google.com/document/d/1mAKwj2frjXaSb7zgQyQ4ktJj_2DR-hvn6yYENEDWCDE/edit">
+            <img src={treinoFemininoAvancado} alt="Qrcode treino avançado feminino"/>
           </a>
         </li>
       </ul>
