@@ -2,7 +2,7 @@
      
 # ArenaFitness    
   
-<h4> Fiz um site para uma academia da minha cidade, utilizando react, typescript, html e css. Com isso, estou estudando um pouco mais de front end e web. Além de que, estou consguindo uma renda extra.
+<h4> Fiz um site para uma academia da minha cidade, utilizando react, typescript, html e css. Com isso, estou estudando um pouco mais de front end e web. Além disso, estou tendo experiências reais de mercado e entendendo um pouco mais da relação com clientes.
 </h4>    
   
 <p>
